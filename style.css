@@ -1,0 +1,31 @@
+body {
+  background-color: Black;
+  color: white;
+  font-family: 'Bangers', cursive;
+  font-size: 32px;
+  text-align: center;
+}
+h1 {
+  color: #FF0DFF;
+  font-family: 'Bangers', cursive;
+}
+h2 {
+  color: white;
+  font-family: 'Bangers', cursive;
+  font-size: 10px;
+}
+h3 {
+  color: #FFDFF7;
+  font-family: 'Carter One', cursive;
+  font-size: 20px;
+}
+h4 {
+  color: white;
+  font-family: 'Bangers', cursive;
+  font-size: 10px;
+}
+h5 {
+  color: #FFDFF7;
+  font-family: 'Carter One', cursive;
+  font-size: 18px;
+}
